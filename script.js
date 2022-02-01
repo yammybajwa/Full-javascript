@@ -43,11 +43,40 @@
 
 // & this method is use for more than one condition in a one statements like stName and cgpa and fail pass method
 
-let age =18;
-let hobby = "cricket";
-if(age >= 18 & hobby === "cricket"  ){
-    alert("welcome to our club")
-} else{
-    alert("sorry Better luck try Next Time!")
-}
+// let age =18;
+// let hobby = "cricket";
+// if(age >= 18 & hobby === "cricket"  ){
+//     alert("welcome to our club")
+// } else{
+//     alert("sorry Better luck try Next Time!")
+// }
+
+//adding and removing element from array
+
+// let myArray=["Zayan","hello","john","markovniko's","ICT" ,"bug","fox"];
+
+//for removing element from the end of array
+// myArray.pop();
+
+//for removing element from the first
+// myArray.shift();
+
+// for putting element in the array on 1st number
+// myArray.unshift("Backend Developer");
+
+//target for some specific word element in word : key point => its counting start from zero
+// console.log(myArray[0]);
+
+//splice method
+//insert one or more elements anywhere in an array, while optionally removing one or more elements that come after it
+
+//its index also start from zero
+// myArray.splice(0,1,"alexy");
+
+//slice method
+//slice method to copy one or more consecutive elements in any position and put them into a new array
+//its index also start from zero addition of extra one number at the end 
+// const sliceMethod= myArray.slice(0,3)
+
+// console.log(sliceMethod);
  
