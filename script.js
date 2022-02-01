@@ -26,7 +26,7 @@
 //     console.log(array)
 // };
 
-//table teller using loop and input
+//table teller using loop and input 
 
 // const btn = document.getElementById("submit");
 
@@ -40,4 +40,14 @@
 //       const finalResult = console.log( value+ " *", index + "=",result);
 //     }
 // } 
+
+// & this method is use for more than one condition in a one statements like stName and cgpa and fail pass method
+
+let age =18;
+let hobby = "cricket";
+if(age >= 18 & hobby === "cricket"  ){
+    alert("welcome to our club")
+} else{
+    alert("sorry Better luck try Next Time!")
+}
  
