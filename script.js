@@ -79,4 +79,19 @@
 // const sliceMethod= myArray.slice(0,3)
 
 // console.log(sliceMethod);
+
+// ===>  changing case 
+
+// const UserValue = prompt("") 
+
+// const cleanCity=["fsd","karachi","lahore"];
+
+
+// for ( let i=0 ; i<3 ; i++){
+//     if(UserValue === cleanCity[i]){
+//         alert("your city is clean")
+//     } else{
+//         alert("city is not in a List");
+//     }
+// }
  
