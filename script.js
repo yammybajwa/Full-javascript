@@ -98,6 +98,15 @@
 
 //  String Measure Part
 
-const StringOne ="JOhnAlexBajwa";
+// const StringOne ="JOhnAlexBajwa";
 // console.log(StringOne.length);
-// console.log(StringOne[10])
+// console.log(StringOne[10]);
+
+// const cities = prompt();
+// const character = cities.length;
+// if( character > 3 ){
+//     console.log(cities.slice(0,4))
+// }
+
+ 
+
