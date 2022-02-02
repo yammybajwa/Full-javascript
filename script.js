@@ -100,3 +100,4 @@
 
 const StringOne ="JOhnAlexBajwa";
 // console.log(StringOne.length);
+// console.log(StringOne[10])
