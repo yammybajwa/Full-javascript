@@ -108,5 +108,12 @@
 //     console.log(cities.slice(0,4))
 // }
 
+//Rounding number
+// let num = 5.23
+// const number = Math.round(num);
+
+// console.log(number)
+
+
  
 
