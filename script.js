@@ -114,6 +114,10 @@
 
 // console.log(number)
 
-
+// genrating random number without decimal
+const number =Math.random();
  
+const multilply = number * 6;
+const final = Math.floor(multilply); 
+console.log(final)
 
