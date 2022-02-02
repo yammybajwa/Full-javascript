@@ -128,3 +128,7 @@
 // const control = numberDecimal.toFixed(3);
 
 // console.log(control);
+
+const date =new Date();
+const res=date.getDay()
+console.log(res)
