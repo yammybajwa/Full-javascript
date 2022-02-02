@@ -95,3 +95,8 @@
 //     }
 // }
  
+
+//  String Measure Part
+
+const StringOne ="JOhnAlexBajwa";
+// console.log(StringOne.length);
