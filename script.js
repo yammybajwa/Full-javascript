@@ -115,9 +115,16 @@
 // console.log(number)
 
 // genrating random number without decimal
-const number =Math.random();
+// const number =Math.random();
  
-const multilply = number * 6;
-const final = Math.floor(multilply); 
-console.log(final)
+// const multilply = number * 6;
+// const final = Math.floor(multilply); 
+// console.log(final);
 
+// control the length of decimal 
+
+// const  numberDecimal = 5.25645845;
+
+// const control = numberDecimal.toFixed(3);
+
+// console.log(control);
