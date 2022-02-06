@@ -133,11 +133,21 @@
 // const res=date.getDay()
 // console.log(res)
 
-let object = {
-    name:"Zayan",
-    RollNo: 2500,
-}
+// let object = {
+//     name:"Zayan",
+//     RollNo: 2500,
+// }
 //for putting item in object
 // object.fatherName = "Malik";
 
 // console.log(object);
+
+//strings
+
+// const a= "3";
+// const b = 5;
+
+// console.log(a-b);
+
+
+
